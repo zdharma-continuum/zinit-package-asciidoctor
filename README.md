@@ -23,7 +23,8 @@ Example invocations that'll install
 
 ```zsh
 # Download the Gem of asciidoctor locally into the plugin directory
-zplugin pack for asciidoctor
+# Using the `@' prefix because of collision with the as'' ice
+zplugin pack for @asciidoctor
 ```
 
 ## Default Profile

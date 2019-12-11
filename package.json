@@ -21,7 +21,7 @@
     "bugs": {
         "url": "https://github.com/asciidoctor/asciidoctor/issues"
     },
-    "version" : "2.0.10",
+    "version": "2.0.11",
     "contributors": [],
     "dependencies": {},
     "deprecated": false,
@@ -45,7 +45,7 @@
         },
         "zplugin-ices": {
             "default": {
-                "git" : "",
+                "git": "",
                 "lucid": "",
                 "as": "null",
                 "gem": "!asciidoctor",

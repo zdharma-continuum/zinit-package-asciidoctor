@@ -1,7 +1,5 @@
 # asciidoctor/asciidoctor as a Zsh package
 
-##### NPM link: [https://www.npmjs.com/package/zsh-asciidoctor](https://www.npmjs.com/package/zsh-asciidoctor)
-
 ##### Homepage link: [asciidoctor/asciidoctor](https://github.com/asciidoctor/asciidoctor)
 
 | **Package source:** | Tarball | Git | Node | Gem |

@@ -50,7 +50,8 @@
                 "as": "null",
                 "gem": "!asciidoctor",
                 "sbin": "g:bin/asciidoctor",
-                "atpull": "%atclone"
+                "atpull": "%atclone",
+                "nocompile": ""
             }
         }
     }

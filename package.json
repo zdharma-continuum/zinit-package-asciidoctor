@@ -43,7 +43,7 @@
             "version": "2.0.10",
             "requires": "gem"
         },
-        "zplugin-ices": {
+        "zinit-ices": {
             "default": {
                 "git": "",
                 "lucid": "",

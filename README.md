@@ -1,3 +1,7 @@
+# Deprecated
+
+❗ All zinit-packages have been migrated to https://github.com/zdharma-continuum/zinit-packages
+You'll find the source for this here package in https://github.com/zdharma-continuum/zinit-packages/tree/HEAD/asciidoctor
 # asciidoctor/asciidoctor as a Zsh package
 
 ##### Homepage link: [asciidoctor/asciidoctor](https://github.com/asciidoctor/asciidoctor)
